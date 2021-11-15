@@ -1,7 +1,7 @@
 # Load-Balancer-using-Multithtreading
-    Load balancing an application workload among threads is critical to performance. 
-   However, achieving perfect load balance is non-trivial, and it depends on the parallelism within the application, 
-   workload, the number of threads, load balancing policy, and the threading implementation.   
+    Load balancing an application workload among threads is critical to performance. However, achieving perfect load 
+    balance is non-trivial, and it depends on the parallelism within the application, workload, the number of threads,
+    load balancing policy, and the threading implementation.   
 	
     We present a multithreaded model for load-balancing on servers, where the incoming client requests are 
     redirected onto a server chosen from multiple available server instances .Multithreading is used as a 
